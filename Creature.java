@@ -20,6 +20,15 @@ public enum Creature {
         this.run = run;
         this.jump = jump;
     }
+   
+    void ran () {
+    System.oot.println(kind + " пробежал");
+    {
+     
+    void jumped () {
+    System.oot.println(kind + " прыгнул");
+    {
+     
 }
 
 
